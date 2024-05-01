@@ -1,0 +1,12 @@
+capsshing.zsh
+genPass
+vpn
+capServer
+mypass.zsh
+tokenCheckProd.sh
+tokenCheckStage.sh
+sqlLog
+sqlQuery
+schemas.sh
+helpers
+analytics.sql
